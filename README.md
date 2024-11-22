@@ -36,4 +36,30 @@
 - 반려동물 커뮤니티 활성화를 통한 협력적 문제 해결.
 - 반려동물 실종에 대한 사회적 관심 및 책임 의식 강화.
 
+## 👥 Team Members
+
+| <img src="https://avatars.githubusercontent.com/u/0?v=4" width="150" height="150"/> <br> [Team Member 1](https://github.com/) | <img src="https://avatars.githubusercontent.com/u/76528931?v=4" width="150" height="150"/> <br> [이진우](https://github.com/dlehgus97) | <img src="https://avatars.githubusercontent.com/u/0?v=4" width="150" height="150"/> <br> [Team Member 3](https://github.com/) |
+|:-:|:-:|:-:|
+
+
+
+
 ## <p align="center">⛏️ Skills and Tools</p>
+### 💻 Skills
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Flutter-42A5F5?style=for-the-badge&logo=flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring%20Boot-87C13C?style=for-the-badge&logo=springboot&logoColor=white">
+</p>
+
+### 🛠️ Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-FF4088?style=for-the-badge&logo=intellijidea&logoColor=white">
+  <img src="https://img.shields.io/badge/Android%20Studio-00C853?style=for-the-badge&logo=androidstudio&logoColor=white">
+  <img src="https://img.shields.io/badge/Figma-FF6F00?style=for-the-badge&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Amazon%20AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
+</p>
+
+</p>  
+</p>
