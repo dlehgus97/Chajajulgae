@@ -38,7 +38,7 @@
 
 ## 👥 Team Members
 
-| <img src="https://avatars.githubusercontent.com/u/0?v=4" width="150" height="150"/> <br> [Team Member 1](https://github.com/) | <img src="https://avatars.githubusercontent.com/u/76528931?v=4" width="150" height="150"/> <br> [이진우](https://github.com/dlehgus97) | <img src="https://avatars.githubusercontent.com/u/0?v=4" width="150" height="150"/> <br> [Team Member 3](https://github.com/) |
+| <img src="https://avatars.githubusercontent.com/u/79631853?v=4" width="150" height="150"/> <br> [서현오](https://github.com/ohhyeonn) | <img src="https://avatars.githubusercontent.com/u/76528931?v=4" width="150" height="150"/> <br> [이진우](https://github.com/dlehgus97) | <img src="https://avatars.githubusercontent.com/u/106096142?v=4" width="150" height="150"/> <br> [서석환](https://github.com/shseo232) |
 |:-:|:-:|:-:|
 
 
